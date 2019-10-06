@@ -1,0 +1,5 @@
+package model;
+
+public enum SubjectDomain {
+    MATHEMATICS, LITERATURE, PHYSICS, CHEMISTRY, BIOLOGY, HISTORY, GEOGRAPHY;
+}
